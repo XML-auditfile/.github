@@ -1,12 +1,13 @@
-## Hi there 👋
+# XML Auditfile
 
-<!--
+The XML Auditfile Financieel (XAF) is the Dutch open standard for exchanging data from financial
+administrations, used by accounting software, auditors and the Dutch Tax Administration
+(Belastingdienst). This organization maintains open-source tooling around that standard: the
+[auditfile-spec](https://github.com/xml-auditfile/auditfile-spec) repository with the specification,
+and the [`@xml-auditfile/auditfile`](https://www.npmjs.com/package/@xml-auditfile/auditfile) package,
+which ships the spec together with TypeScript declarations so you can work with audit files in
+JavaScript and TypeScript.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For a sample and more background, visit [xml-auditfile.com](https://xml-auditfile.com). Every npm
+release is built on GitHub Actions and published with provenance, so you can verify that a version
+comes from this source code. Issues and contributions are welcome in the individual repositories.
