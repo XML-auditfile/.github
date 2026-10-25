@@ -8,6 +8,4 @@ and the [`@xml-auditfile/auditfile`](https://www.npmjs.com/package/@xml-auditfil
 which ships the spec together with TypeScript declarations so you can work with audit files in
 JavaScript and TypeScript.
 
-For a sample and more background, visit [xml-auditfile.com](https://xml-auditfile.com). Every npm
-release is built on GitHub Actions and published with provenance, so you can verify that a version
-comes from this source code. Issues and contributions are welcome in the individual repositories.
+For a sample and more background, visit [xml-auditfile.com](https://xml-auditfile.com).
