@@ -1,6 +1,6 @@
 # XML Auditfile
 
-The XML Auditfile is the Dutch open standard for exchanging data from financial
+The XML Auditfile is the Dutch standard for exchanging data from financial
 administrations, used by accounting software, auditors and the Dutch Tax Administration
 (Belastingdienst). This organization maintains open-source tooling around that standard: the
 [auditfile-spec](https://github.com/xml-auditfile/auditfile-spec) repository with the specification,
